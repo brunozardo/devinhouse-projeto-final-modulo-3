@@ -13,18 +13,19 @@ Abaixo observa-se um diagrama suscinto das integrações do sistema contendo as 
 
 Esta API REST tem como objetivo auxiliar na manutenção dos dados de Processos, Assuntos e Interessados no banco de dados e prover integração com o FrontEnd do sistema. Abaixo, seguem todos os Endpoints que a API fornece, com a descrição de sua função, respectivos verbos HTTP e também com exemplos de utilização.
 
-### Aqui está a lista de todos os Endpoints para facilitar vizualização
+### Aqui está a lista de todos os Endpoints para facilitar visualização
+
 
 ![todosOsEndpoints](https://github.com/brunozardo/devinhouse-projeto-final-modulo-3/blob/brunozardo/Images/todosOsEndpoints.png)
 
-## Abaixo estão mais informações sobre cada Endpoint
 
 <details>
-<summary>### Busca Um Processo Por ID
-</summary>
-<br>
+##<summary>Visualização detalhada de cada Endpoint</summary>
+  
+### Busca Um Processo Por ID
+
 ![image1](https://github.com/brunozardo/devinhouse-projeto-final-modulo-3/blob/brunozardo/Images/1Processo-controller-buscaUmProcessoPorId.png)
-</details>
+
 
 ### Atualiza um processo pelo ID
 
@@ -81,6 +82,10 @@ Esta API REST tem como objetivo auxiliar na manutenção dos dados de Processos,
 ### Cria um Assunto
 
 ![image15](https://github.com/brunozardo/devinhouse-projeto-final-modulo-3/blob/brunozardo/Images/15Assunto-controller-criaUmAssunto.png)
+
+  
+</details>
+
 
 
 * Deverá ser documentada a **API REST** do Backend feita no **#Projeto 6**;
