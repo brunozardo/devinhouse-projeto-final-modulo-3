@@ -2,14 +2,18 @@
 
 
 
-## Descrição
+## Diagrama de Integrações
 
-Você está participando de um processo seletivo para ingressar numa vaga de programador
-**full stack** em uma grande empresa de TI. E como etapa final deste processo seletivo você deverá documentar a **API REST**, criar um diagrama de camadas de aplicação e *dockerizar* o módulo de **Frontend** e **Backend** feitos na etapa anterior deste processo (**#Projeto 6**).
+Abaixo observa-se um diagrama suscinto das integrações do sistema contendo as camadas de apresentação, negócio, segurança e persistência.
+
+![image](https://github.com/brunozardo/devinhouse-projeto-final-modulo-3/blob/brunozardo/Images/Diagrama.png)
 
 
+## Documentação da REST API utilizando Swagger
 
-## Funcionalidades
+Esta API REST tem como objetivo auxiliar na manutenção dos dados de Processos, Assuntos e Interessados no banco de dados e prover integração com o FrontEnd do sistema. Abaixo, seguem todos os Endpoints que a API fornece, com a descrição de sua função, respectivos verbos HTTP e também com exemplos de utilização.
+
+
 
 * Deverá ser documentada a **API REST** do Backend feita no **#Projeto 6**;
 * Dockerizar o Frontend feito no **#Projeto 6**; 
