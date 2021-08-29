@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "descricao": {
+            "type": "string"
+        },
+        "dtCadastro": {
+            "type": "string"
+        },
+        "flAtivo": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "id",
+        "descricao",
+        "dtCadastro",
+        "flAtivo"
+    ]
+}

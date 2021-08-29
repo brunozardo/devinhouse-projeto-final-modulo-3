@@ -1,0 +1,18 @@
+{
+    "testFiles": "**/*.feature",
+    "ignoreTestFiles": ["*.js", "*.ts", "*.md"],
+    "defaultCommandTimeout": 60000,
+    "watchForFileChanges": true,
+    "baseUrl": "http://localhost:3000/",
+    "retries": {
+        "runMode": 3,
+        "openMode": 0
+    },
+    "video": false,
+    "chromeWebSecurity": false,
+    "env": {
+        "auth_realm": "grupo05",
+        "auth_client_id": "frontend",
+        "auth_base_url": "https://training.dev.delivery/auth"
+    }
+}
