@@ -39,7 +39,7 @@ public class AssuntoController {
 	@Autowired
 	private AssuntoService service;
 	
-	@Operation(summary = "Busca os assuntos")
+	@Operation(summary = "Lista os assuntos")
 	@GetMapping(produces = APPLICATION_JSON_VALUE)
 	@ResponseBody
 	@ResponseStatus(code = HttpStatus.OK)
