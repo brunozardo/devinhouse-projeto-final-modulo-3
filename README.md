@@ -20,7 +20,7 @@ Esta API REST tem como objetivo auxiliar na manutenção dos dados de Processos,
 
 
 <details>
-<summary>## Visualização detalhada de cada Endpoint</summary>
+<summary>Visualização detalhada de cada Endpoint</summary>
   
 ### Busca Um Processo Por ID
 
