@@ -20,7 +20,7 @@ Esta API REST tem como objetivo auxiliar na manutenção dos dados de Processos,
 
 
 <details>
-<summary>Visualização detalhada de cada Endpoint</summary>
+<summary>Visualização detalhada de cada Endpoint clicando no dropdown</summary>
   
 ### Busca Um Processo Por ID
 
@@ -87,6 +87,12 @@ Esta API REST tem como objetivo auxiliar na manutenção dos dados de Processos,
 
 ## Executar a aplicação usando Docker :whale:
 
+Certifique-se de que tenha o Docker instalado em sua máquina.
+
+### Frontend e Backend com o docker-compose.yml
+
 - Faça clone desse repositório
-- Acesse a raíz do repositório e de build no arquivo utilizando o comando ``docker-compose up``.
-- 
+- Navegue para o repositório
+- Utilize o comando ``docker-compose up`` para gerar as imagens e buildar as aplicacoes.
+
+
